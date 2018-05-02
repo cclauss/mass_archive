@@ -9,7 +9,7 @@ mass_archive uses three different (mostly free) archiving services:
 - Archive.is
 - Perma.cc
 
-To use Perma.cc, you'll need to sign up for an account on their website, where you'll get 10 free archives per month. Before running mass_archive, you'll also need to [get a Perma.cc API key](https://perma.cc/docs/developer) and paste it into "YOUR_PERMA_API_KEY_HERE" in the mass_archive script. If you'd rather remove the option to upload to Perma, feel free to comment it out.
+To use Perma.cc, you'll need to sign up for an account on their website, where you'll get 10 free archives per month. Before running mass_archive, you'll need to [get a Perma.cc API key](https://perma.cc/docs/developer) and paste it into "YOUR_PERMA_API_KEY_HERE" in the mass_archive script. If you'd rather remove the option to upload to Perma, feel free to comment it out.
 
 # Requirements:
 
